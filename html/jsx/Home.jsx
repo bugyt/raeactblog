@@ -5,7 +5,7 @@ class Home extends React.Component {
                 <div className="jumbotron">
                     <h1>Jumbotron heading</h1>
                     <p className="lead">
-                        Cras justo odio, dapibus ac facilisis in, egestas eget
+                        Crads justo odio, dapibus ac facilisis in, egestas eget
                         quam. Fusce dapibus, tellus ac cursus commodo, tortor
                         mauris condimentum nibh, ut fermentum massa justo sit
                         amet risus.
